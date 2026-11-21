@@ -1,0 +1,14 @@
+data/
+*.parquet
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+mlruns/
+mlartifacts/
+.DS_Store
+.vscode/
+.idea/
